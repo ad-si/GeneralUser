@@ -1,5 +1,5 @@
 {
-  "name": "GeneralUser",
+  "name": "generaluser",
   "version": "1.45.0",
   "description": "For FluidSynth optimized General Midi soundfont",
   "main": "GeneralUser.sf2",
