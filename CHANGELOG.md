@@ -1,5 +1,12 @@
 # Changelog
 
+## Changes for v1.45.0
+
+- Moved code-base to GitHub
+- Cleaned up
+- Add package.json for distribution via npm
+
+
 ## Changes for v1.44
 
 - New license
