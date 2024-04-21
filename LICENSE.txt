@@ -1,5 +1,5 @@
-*** GeneralUser GS v1.44 ***
-***     License v2.0    ***
+*** GeneralUser GS v1.471 ***
+***      License v2.0     ***
 
 ** License of the complete work **
 You may use GeneralUser GS without restriction for your own music creation, private or commercial.  This SoundFont bank is provided to the community free of charge.  Please feel free to use it in your software projects, and to modify the SoundFont bank or its packaging to suit your needs.
@@ -16,7 +16,7 @@ If you plan to feature GeneralUser GS on your own website, please do not link di
 
 I hope you enjoy GeneralUser GS!  This SoundFont bank is the product of many years of hard work.
 
-You can find updates to GeneralUser GS and more of my SoundFonts at:
+You can find updates to GeneralUser GS and more of my virtual instruments at:
 http://www.schristiancollins.com
 
 I can be reached at: s_chriscollins@hotmail.com.
