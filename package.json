@@ -1,18 +1,20 @@
 {
   "name": "generaluser",
-  "version": "1.45.0",
+  "version": "1.47.1",
   "description": "For FluidSynth optimized General Midi soundfont",
   "main": "GeneralUser.sf2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adius/GeneralUser"
+    "url": "git+https://github.com/adius/GeneralUser.git"
   },
   "keywords": [
     "soundfont",
     "fluidsynth"
   ],
   "author": "S. Christian Collins <s_chriscollins@hotmail.com>",
-  "contributors": ["Adrian Sieber <mail@adriansieber.com>"],
+  "contributors": [
+    "Adrian Sieber <mail@adriansieber.com>"
+  ],
   "license": "OSS",
   "bugs": {
     "url": "https://github.com/adius/GeneralUser/issues"
