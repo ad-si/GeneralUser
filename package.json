@@ -5,7 +5,7 @@
   "main": "GeneralUser.sf2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adius/GeneralUser.git"
+    "url": "git+https://github.com/ad-si/GeneralUser.git"
   },
   "keywords": [
     "soundfont",
@@ -17,7 +17,7 @@
   ],
   "license": "OSS",
   "bugs": {
-    "url": "https://github.com/adius/GeneralUser/issues"
+    "url": "https://github.com/ad-si/GeneralUser/issues"
   },
-  "homepage": "https://github.com/adius/GeneralUser"
+  "homepage": "https://github.com/ad-si/GeneralUser"
 }
